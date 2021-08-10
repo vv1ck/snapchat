@@ -5,6 +5,6 @@
 - You need proxies to avoid ban
 - proxy site : <a href="https://proxyscrape.com/free-proxy-list">Click here 🏓</a>
 -
-By joker /@vv1ck
+By joker /<a href="https://t.me/vv1ck">@vv1ck</a>
 -
 See
