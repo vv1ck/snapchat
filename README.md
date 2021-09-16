@@ -6,6 +6,11 @@
 - You need proxies to avoid ban
 - proxy site : <a href="https://proxyscrape.com/free-proxy-list">Click here 🏓</a>
 -
-By joker /<a href="https://t.me/vv1ck">@vv1ck</a>
+install in kali linux :
+- git clone https://github.com/vv1ck/snapchat.git
+- cd snapchat
+- python3 Scanner-web.py
 -
-Seee
+By JOKER | <a class="" href="https://www.snapchat.com/add/jokermr5oos4800?">Snapchat 👻</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a>
+-
+see
