@@ -9,7 +9,7 @@
 install in kali linux :
 - git clone https://github.com/vv1ck/snapchat.git
 - cd snapchat
-- python3 Scanner-web.py
+- python3 email-snapchat.py
 -
 By JOKER | <a class="" href="https://www.snapchat.com/add/jokermr5oos4800?">Snapchat 👻</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a>
 -
